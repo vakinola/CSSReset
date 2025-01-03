@@ -14,6 +14,11 @@ html {
     font-size: 100%;
   }
 
+a {
+  color: unset;
+  text-decoration: none;
+}
+
 
 img, picture, video, canvas, svg {
     display: block;
